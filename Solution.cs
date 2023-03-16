@@ -27,3 +27,5 @@ class Solution
         return cnt;
     }
 }
+
+// https://app.codility.com/programmers/task/number_of_disc_intersections/
